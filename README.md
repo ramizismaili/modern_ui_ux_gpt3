@@ -1,4 +1,6 @@
-https://gpt3rismaili.netlify.app/
+# [Live Site](https://gpt3rismaili.netlify.app/)
+
+Converting figma design into responsice React App.
 
 ![Capture](https://user-images.githubusercontent.com/101756045/200622587-8d953420-0373-4ba0-9e02-98fc53efd999.PNG)
 
